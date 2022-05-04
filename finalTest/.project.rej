@@ -1,0 +1,7 @@
+diff a/finalTest/.project b/finalTest/.project	(rejected hunks)
+@@ -0,4 +0,5 @@
+ 	</buildSpec>
+ 	<natures>
+ 		<nature>org.eclipse.jdt.core.javanature</nature>
++	</natures>
+ </projectDescription>
